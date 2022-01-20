@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaba</h1>
-<h3 align="center">Hippie In Software</h3>
+<h3 align="center">JavaScript Developer, Pitbull Dad, Knicks fan and tech trend enthusiast. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chabajosa&label=Profile%20views&color=0e75b6&style=flat" alt="chabajosa" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [chabajosa.netlify.app](chabajosa.netlify.app)
 
-- 💬 Ask me about **React, React-Native, NodeJS, iLe RPG, SQL**
+- 💬 Ask me about **React, React-Native, Expo, NodeJS, iLe RPG, SQL**
 
 - 📫 How to reach me **chabagjg@gmail.com**
 

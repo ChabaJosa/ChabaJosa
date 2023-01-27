@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/cg_josa" target="blank"><img src="https://img.shields.io/twitter/follow/cg_josa?logo=twitter&style=for-the-badge" alt="cg_josa" /></a> </p>
 
-- 🔭 I’m currently working on [Banyan Air](https://apps.apple.com/us/app/banyan-air-services/id1576872343)
+- 🔭 I’m currently working at [Walmart](https://wa;mart.com)
 
-- 👨‍💻 All of my projects are available at [chabajosa.netlify.app](chabajosa.netlify.app)
+- 👨‍💻 All of my projects are available at [chabajosa.netlify.app](https://chabajosa.netlify.app/)
 
 - 💬 Ask me about **React, React-Native, Expo, NodeJS, iLe RPG, SQL, NoSQL, NextJS, GraphQL**
 

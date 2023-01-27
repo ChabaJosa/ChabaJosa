@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/cg_josa" target="blank"><img src="https://img.shields.io/twitter/follow/cg_josa?logo=twitter&style=for-the-badge" alt="cg_josa" /></a> </p>
 
-- 🔭 I’m currently working at [Walmart](https://wa;mart.com)
+- 🔭 I’m currently working at [Walmart](https://walmart.com)
 
 - 👨‍💻 All of my projects are available at [chabajosa.netlify.app](https://chabajosa.netlify.app/)
 

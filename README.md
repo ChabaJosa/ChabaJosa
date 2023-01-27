@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [chabajosa.netlify.app](https://chabajosa.netlify.app/)
 
-- 💬 Ask me about **React, React-Native, Expo, NodeJS, iLe RPG, SQL, NoSQL, NextJS, GraphQL**
+- 💬 Ask me about **React, NextJS, React-Native, Expo, NodeJS, iLe RPG, MongoDB, Firebase, SQL, GraphQL, Grafana, Splunk **
 
 - 📫 How to reach me **chabagjg@gmail.com**
 
